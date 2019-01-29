@@ -1,8 +1,8 @@
 {
     "name": "Nuts",
     "description": "Open source releases/downloads server with auto-updater",
-    "repository": "https://github.com/GitbookIO/nuts",
-    "website": "https://github.com/GitbookIO/nuts",
+    "repository": "https://github.com/eleventhlabs/nuts",
+    "website": "https://github.com/eleventhlabs/nuts",
     "keywords": ["releases", "download", "github", "squirrel", "desktop"],
     "env": {
         "GITHUB_REPO": {
